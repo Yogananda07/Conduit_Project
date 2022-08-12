@@ -1,0 +1,34 @@
+atomicwrites==1.4.0
+attrs==20.3.0
+colorama==0.4.4
+comtypes==1.1.10
+iniconfig==1.1.1
+MouseInfo==0.1.3
+packaging==20.9
+pluggy==0.13.1
+psutil==5.8.0
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.4
+pytest-html==3.1.1
+pytest-metadata==1.11.0
+pywin32==301
+six==1.16.0
+toml==0.10.2
+Pillow==8.4.0
+xmltodict==0.12.0
+pytest-ordering==0.6
+opencv-python==4.5.4.60
+bs4==0.0.1
+lxml==4.7.1
+pytest-monitor==1.6.3
+selenium==4.4
+
+Python installation
+python packages need to import
+Trigger the batch file "testSetTrigger.bat"
+Final report will be created in report folder
+Error logs and screenshot will be captured in log folder
+
+  
+

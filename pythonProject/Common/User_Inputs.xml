@@ -1,0 +1,9 @@
+<UserInputData>
+    <TestData>
+        <Exepath>C:\Temp\chromedriver.exe</Exepath>
+        <txtName>test</txtName>
+        <txtEmail>sample</txtEmail>
+        <txtPassword>password</txtPassword>
+        <txtArticletitle>This is sample article.</txtArticletitle>
+    </TestData>
+</UserInputData>
